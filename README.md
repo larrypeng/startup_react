@@ -1,6 +1,6 @@
-# Free React landing page template
+# React template
 
-![Open React template preview](https://user-images.githubusercontent.com/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
+![Open React template preview](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1172&q=80)
 
 **Open** is a **free React landing page template designed** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
