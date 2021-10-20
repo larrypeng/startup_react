@@ -2,12 +2,6 @@
 
 ![Open React template preview](https://images.unsplash.com/photo-1620428268482-cf1851a36764?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1109&q=80)
 
-**Open** is a **free React landing page template designed** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
-
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
-
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
-
 ## Live demo
 
 Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
